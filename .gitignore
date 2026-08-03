@@ -1,0 +1,6 @@
+.venv/
+.pip-cache/
+__pycache__/
+*.pyc
+source-photo.jpg
+source-prepped.png
